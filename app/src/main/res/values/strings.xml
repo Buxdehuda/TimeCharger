@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name" translatable="false">TimeCharger</string>
+    <string name="remainingTimeText" translatable="false">%ds</string>
+    <string name="soundText">Sound?</string>
+    <string name="chargingText">Charging...</string>
+    <string name="chargeText">Charge</string>
+    <string name="doubleText">Double time?</string>
+</resources>
